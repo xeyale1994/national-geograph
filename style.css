@@ -274,7 +274,7 @@ text-align: center;
     align-items: start;
     background-size:2000px;
     padding: 30px;
-    
+    height: 130vh;
     
 
   }
@@ -295,6 +295,9 @@ text-align: center;
 }
 .text p{
   width: fit;
+}
+.three{
+  height: 130vh;
 }
 }
 
